@@ -4,6 +4,7 @@ import time
 import os
 
 # Makes Console Look Cleaner.
+os.system("title External Base")
 os.system("cls")
 
 def check_javaw_running():
