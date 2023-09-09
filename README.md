@@ -41,4 +41,4 @@ To integrate your own code into the script:
 
 ## Support
 
-If you have any questions, suggestions, or need assistance, please join our Discord support server: [Link to Discord Support Server](https://discord.gg/AfgpyywTTh)
+If you have any questions, suggestions, or need assistance, please join our [Discord Server](https://discord.gg/AfgpyywTTh)
