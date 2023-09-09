@@ -1,4 +1,4 @@
-# Java Process Checker
+# Minecraft External Base
 
 This Python script allows you to check if a Java process (`javaw.exe`) is running on your system, and allows you to intergrate your own code that only works when javaw.exe is running, this is made for minecraft.
 
@@ -26,9 +26,9 @@ The script performs the following steps:
 4. If no Java process is found, it displays a message "No Instance of Java Found."
 5. The script continues to check for the presence of the Java process in an infinite loop with a 1-second delay between checks.
 
-## Integration of Autoclicker
+## Integration of Your Code
 
-To integrate your own autoclicker code into the script:
+To integrate your own code into the script:
 
 1. Open the script file `main.py` in a text editor.
 2. Locate the `run_autoclicker` function within the script.
@@ -36,4 +36,9 @@ To integrate your own autoclicker code into the script:
 4. Save the script file.
 
 ## Screenshots // UI
+
 - Can be located in the screenshots folder.
+
+## Support
+
+If you have any questions, suggestions, or need assistance, please join our Discord support server: [Link to Discord Support Server](https://discord.gg/AfgpyywTTh)
